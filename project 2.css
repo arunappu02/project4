@@ -1,0 +1,90 @@
+
+.text{
+    padding-right: 5px;
+}
+.p5{
+    color: rgb(0, 0, 0);
+    font-size: 18px;
+    text-align: center;
+}
+.h4{
+    color: rgb(0, 0, 0);
+    font-size: 35px;
+    font-weight: bold;
+    text-align: center;
+}
+.sec2{
+    /* margin-top: 50px; */
+    background-color: rgb(247, 247, 247);
+    padding: 50px !important;
+}
+
+.inbox3{
+    /* min-height: 600px;
+    display: flex;
+    align-items: flex-start;
+    justify-content: center;
+    flex-direction: column; */
+    justify-content: center;
+    margin-top: 100px;
+}
+.p2{
+    font-size: px;
+    font-weight: 500;
+}
+.inbox2{
+    height: 300px;
+    text-align: center;
+    margin-top: 100px;
+
+}
+.inbox22{
+    height: 500px;
+    text-align: center;
+    margin-top: 100px;
+
+}
+.img5{
+    flex-direction: row;
+}
+.ds5{
+    margin: auto;
+   
+}
+.sec4{
+    background-color: rgb(247, 247, 247);
+}
+.inbox6{
+    text-align: center;
+   
+    
+}
+.img10{
+    margin: 15px;
+}
+.box{
+    margin: auto;
+}
+.sec5{
+    padding: 50px;
+}
+
+.list1{
+    list-style-image: url(icons8-clock-28.png);
+}
+.list2{
+    list-style-image: url(icons8-lock-30.png);
+}
+.list3{
+    list-style-image: url(icons8-sheild-30.png);
+}
+
+.list4{
+    list-style-image: url(icons8-clock-28.png);
+}
+.list5{
+    list-style-image: url(icons8-lock-30.png);
+}
+.list6{
+    list-style-image: url(icons8-sheild-30.png);
+}
